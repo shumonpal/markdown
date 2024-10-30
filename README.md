@@ -1,1 +1,1 @@
-This is image repo for external uses.
+This is file repo for external uses.
